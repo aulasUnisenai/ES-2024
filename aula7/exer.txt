@@ -1,0 +1,5 @@
+Em uma população de 10.000 indivíduos, deseja-se estimar a proporção de pessoas que usam um determinado serviço. Sabendo que a proporção esperada é de 40%, com um erro máximo de 5% e nível de confiança de 95%, calcule o tamanho da amostra necessária e selecione a amostra aleatória simples.
+
+Uma cidade com 15.000 habitantes é dividida em três regiões: região A (60% da população), região B (25%) e região C (15%). Deseja-se realizar uma pesquisa com margem de erro de 3% e nível de confiança de 95%. Determine o tamanho da amostra total e a amostra proporcional de cada estrato, e selecione as amostras.
+
+Uma empresa possui um banco de dados com 1.000 clientes e deseja realizar uma pesquisa de satisfação. A empresa precisa selecionar uma amostra de clientes para serem entrevistados, de forma sistemática. Para garantir uma margem de erro de 5% e um nível de confiança de 95%, considere que a proporção esperada de clientes satisfeitos é de 50%.
