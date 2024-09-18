@@ -9,7 +9,7 @@ p <- 0.5
 e <- 0.05
 
 # Valor crítico para um nível de confiança de 95%
-Z <- qnorm(1 - 0.05/2)
+Z <- 1.96
 
 # Calcular o tamanho da amostra
 n <- ceiling((N * Z^2 * p * (1 - p)) / (N * e^2 + Z^2 * p * (1 - p)))
@@ -25,7 +25,7 @@ p <- 0.5
 e <- 0.05
 
 # Valor crítico para um nível de confiança de 95%
-Z <- qnorm(1 - 0.05/2)
+Z <- 1.96
 
 # Calcular o tamanho da amostra
 n <- ceiling((Z^2 * p * (1 - p)) / e^2)
