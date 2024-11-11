@@ -1,4 +1,5 @@
 # Kruskal-Wallis
+library(FSA)
 # Refeições x glicose
 shapiro.test(dados$glicose)
 
